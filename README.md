@@ -1,6 +1,6 @@
 # Inventory Management System
 
-An Inventory management system web application for Kazi Mobile Home, Paikgacha, Khulna.
+This system is developed for Kazi Mobile Home for tracking inventory levels, orders, sales and deliveries. It can also be used in the office to create a work order, bill of materials and other production-related documents.
 
 # Project Tools & Technology:
 
