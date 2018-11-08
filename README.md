@@ -1,9 +1,8 @@
-# --------------Inventory Management System---------------------
+# Inventory Management System
 
 An Inventory management system web application for Kazi Mobile Home, Paikgacha, Khulna.
 
 # Project Tools & Technology:
-===========================
 
 Languages: PHP, HTML5, JS, CSS3
 Plugins: jQuery, Notify, Bootstrap
@@ -11,22 +10,11 @@ Database: MySqli
 
 
 # Developer & Contact:
-=====================
 
 Md. Shahidul Islam
 Computer Science and Engineering Discipline
 Khulna University, Khulna - 9208, Bangladesh
 Email: shahid.sm35@gmail.com
-
-# Project Recieved:
-===========================
-
-15 September, 2017
-
-# Project Handover:
-===========================
-
-18 December, 2017
 
 # Services & Functionalities:
 ===========================
