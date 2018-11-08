@@ -11,10 +11,10 @@ Database: MySqli
 
 # Developer & Contact:
 
-Md. Shahidul Islam
-Computer Science and Engineering Discipline
-Khulna University, Khulna - 9208, Bangladesh
-Email: shahid.sm35@gmail.com
+Md. Shahidul Islam  
+Computer Science and Engineering Discipline  
+Khulna University, Khulna - 9208, Bangladesh  
+Email: shahid.sm35@gmail.com  
 
 # Services & Functionalities:
 ===========================
