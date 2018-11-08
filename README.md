@@ -1,39 +1,30 @@
---------------Kazi Mobile Home---------------------
+# --------------Inventory Management System---------------------
 
-Introduction:
-=============
-Kazi Mobile home is a inventory management system
-web application for Kazi Mobile Home, Paikgacha, Khulna.
+An Inventory management system web application for Kazi Mobile Home, Paikgacha, Khulna.
 
-Project Tools & Technology:
+# Project Tools & Technology:
 ===========================
 Languages: PHP, HTML5, JS, CSS3
 Plugins: jQuery, Notify, Bootstrap
 Database: MySqli
 
 
-Developer & Contact:
+# Developer & Contact:
 =====================
 Md. Shahidul Islam
 Computer Science and Engineering Discipline
 Khulna University, Khulna - 9208, Bangladesh
-Phone: 01521207008, 01777086703
 Email: shahid.sm35@gmail.com
-Website: http://fsix.me
 
-Project Recieved:
+# Project Recieved:
 ===========================
-Sunday, 15 October, 2017
+15 September, 2017
 
-Deadline:
+# Project Handover:
 ===========================
-Tuesday, 14 November, 2017
+18 December, 2017
 
-Project Handover:
-===========================
-18 Sept, 2017
-
-Services & Functionalities:
+# Services & Functionalities:
 ===========================
 
 Services:
@@ -43,7 +34,7 @@ Services:
 4. Add new user
 5. Report bug
 
-Functionalities (CRUD):
+# Functionalities (CRUD):
 =======================
 1. Product Category
 2. Product Sub Category
