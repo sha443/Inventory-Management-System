@@ -1,0 +1,75 @@
+<menu>
+	<items>
+		<title>Dashboard</title>
+		<link>index.php</link>
+		<icon>pe-7s-graph</icon>
+	</items>
+	<items>
+		<title>Inventory Report</title>
+		<link>inventoryreport.php</link>
+		<icon>pe-7s-graph3</icon>
+	</items>
+	<items>
+		<title>Sales Report</title>
+		<link>salesreport.php</link>
+		<icon>pe-7s-graph1</icon>
+	</items>
+	<items>
+		<title>Expense Report</title>
+		<link>expensereport.php</link>
+		<icon>pe-7s-cash</icon>
+	</items>
+	<items>
+		<title>Inventory</title>
+		<link>inventory.php</link>
+		<icon>pe-7s-help2</icon>
+	</items>
+	<items>
+		<title>Product on Hand</title>
+		<link>mfs.php</link>
+		<icon>pe-7s-timer</icon>
+	</items>
+	<items>
+		<title>Query SE</title>
+		<link>query.php</link>
+		<icon>pe-7s-search</icon>
+	</items>
+	<items>
+		<title>Product Sales</title>
+		<link>sales.php</link>
+		<icon>pe-7s-note2</icon>
+	</items>
+	<items>
+		<title>Returns</title>
+		<link>returns.php</link>
+		<icon>pe-7s-back-2</icon>
+	</items>
+	
+	<items>
+		<title>Expenses</title>
+		<link>expenses.php</link>
+		<icon>pe-7s-news-paper</icon>
+	</items>
+
+	<items>
+		<title>Bank Deposite</title>
+		<link>bankdeposite.php</link>
+		<icon>pe-7s-credit</icon>
+	</items>
+	<items>
+		<title>Remarks</title>
+		<link>remarks.php</link>
+		<icon>pe-7s-notebook</icon>
+	</items>
+	<items>
+		<title>Incentive</title>
+		<link>incentive.php</link>
+		<icon>pe-7s-cup</icon>
+	</items>
+	<items>
+		<title>Expenses Category</title>
+		<link>expensecategory.php</link>
+		<icon>pe-7s-network</icon>
+	</items>
+	
+</menu>
