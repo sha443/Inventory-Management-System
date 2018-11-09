@@ -11,17 +11,16 @@ Database: MySqli
 
 
 # Services & Functionalities:
-===========================
 
-Services:
+
+* Services:
 1. Index
 2. Login/ Logout
 3. Password Change
 4. Add new user
 5. Report bug
 
-# Functionalities (CRUD):
-=======================
+* Functionalities (CRUD):
 
 1. Product Category
 2. Product Sub Category
